@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationcollierville.com/sitemap.xml
